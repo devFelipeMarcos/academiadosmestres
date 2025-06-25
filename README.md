@@ -38,7 +38,7 @@ A **Academia dos Mestres** é uma aplicação web que simula uma plataforma de c
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/devFelipeMarcos/abacatepay
+git clone https://github.com/devFelipeMarcos/academiadosmestres
 cd academia-dos-mestres
 ```
 
@@ -191,8 +191,8 @@ O código está disponível no GitHub para quem quiser dar uma olhada ou contrib
 
 ---
 
-**🔗 Link do projeto:** https://github.com/devFelipeMarcos
-**💻 GitHub:** https://github.com/devFelipeMarcos/abacatepay
+**🔗 Link do projeto:** https://academiadosmestres.vercel.app
+**💻 GitHub:** https://github.com/devFelipeMarcos/academiadosmestres
 
 O que acharam da ideia? Já tiveram experiências interessantes integrando gateways de pagamento brasileiros? 👇
 ````
